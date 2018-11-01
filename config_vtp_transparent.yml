@@ -1,6 +1,5 @@
 ---
 - name: Change VTP mode
-  hosts: 10.10.10.109
 
  
   tasks: 
