@@ -1,6 +1,6 @@
 ---
 - name: Change VTP mode
-  hosts: ios
+  hosts: all
 
  
   tasks: 
